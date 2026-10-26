@@ -1,0 +1,5 @@
+{
+  "name": "claude-autoroute",
+  "owner": { "name": "ta41k" },
+  "plugins": [{ "name": "autoroute", "source": "./" }]
+}
